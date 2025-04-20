@@ -81,8 +81,8 @@ npm run dev
 
 **Frontend:**
 ```bash
-cd client
-npm start
+cd frontend
+npm run dev
 ```
 
 App should now be live at `http://localhost:5000`
@@ -91,7 +91,7 @@ App should now be live at `http://localhost:5000`
 
 ## 📸 Preview
 
-> ![KodeKshetra Logo](./assets/logo.png)  
+> ![KodeKshetra Logo](frontend/assets/logo.png)  
 > *"Solve DSA, Build Skills."*
 
 ---
