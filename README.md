@@ -40,13 +40,13 @@ cd kodekshetra
 
 **Backend**
 ```bash
-cd server
+cd backend
 npm install
 ```
 
 **Frontend**
 ```bash
-cd ../client
+cd frontend
 npm install
 ```
 
